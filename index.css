@@ -33,6 +33,7 @@ nav{
 main{
     display: flex;
     flex-wrap: nowrap;
+    flex-grow: 3;
     
 }
 .testimonial{
